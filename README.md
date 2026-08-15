@@ -5,7 +5,8 @@ A CLI-based Rock Paper Scissors game developed in C.
 - Random computer choices
 - Score tracking
 - Best of 3 rounds
-- 
+- Random computer choice
+- Play again option
 
 ## Technologies
 - C Programming
@@ -17,5 +18,5 @@ A CLI-based Rock Paper Scissors game developed in C.
 - Niba Nasir      (26SP-012-CY)
 - Adeena Khalid   (26SP-013-CY)
 
-# How to Run
+## How to Run
 Open the project in Dev-C++ and compile/run the program.
