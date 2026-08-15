@@ -7,6 +7,7 @@ A CLI-based Rock Paper Scissors game developed in C.
 - Best of 3 rounds
 - Random computer choice
 - Play again option
+- Draw Detection
 
 ## Technologies
 - C Programming
