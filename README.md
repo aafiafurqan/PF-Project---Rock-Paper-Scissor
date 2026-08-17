@@ -2,7 +2,7 @@
 A CLI-based Rock Paper Scissors game developed in C.
 # Features
 # Features
-- Player vs Computer gameplay
+* Player vs Computer gameplay
 * Random computer choices
 * Rock, Paper, Scissors game rules
 * Best-of-three match system
